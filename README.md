@@ -5,6 +5,13 @@ The Don Elon AI is based on an analysis of over 15'000 tweets, and is able to as
 ## Download The Don Elon AI
 The Don Elon AI will be available on the Apple App store for download soon.
 
+## Participate In The Don Elon AI
+For the price of one Bitcoin, you may add yourself as a character to the 
+App. Also, it is possible to purchase a share NFT and participate in the 
+profits of the game. As NFT shareholder, you get exclusive access to 
+shareholders-only WhatsApp and Discord groups. These features will be 
+available soon.
+
 ## Website & Social Media
 Follow us on our social media profiles for more updates:
 <ul>
