@@ -1,0 +1,61 @@
+/* Import Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@100;400;500;600;700&family=Noto+Sans+Display&family=Open+Sans:ital,wght@0,300;0,700;1,300&family=Prompt:ital,wght@0,100;0,200;0,300;0,400;0,600;1,100;1,200;1,300;1,400;1,600&family=Roboto:wght@100&display=swap');
+
+
+/* Implement Gradient */
+body {
+	background: linear-gradient(-45deg, #f1840e, #00c7ff);
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
+	height: 100vh;
+    padding: 0;
+    margin: 0;
+    font-family: "Jost", "sans-serif";
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+/* Core Container */
+
+.container {
+    width: 80%;
+    max-width: 600px;
+    min-height: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(100,100,100,0.3);
+    color: #fafafa;
+    font-size: large;
+}
+
+.title {
+    font-size: 4rem;
+    font-weight: 400;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-align: center;
+}
+
+.description {
+    text-align: center;
+    margin: 0;
+    margin-bottom: 8px;
+}
+
+.subtitle {
+    margin-bottom: 0;
+}

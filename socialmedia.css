@@ -1,0 +1,92 @@
+
+/* Button */
+.button-36 {
+    border-radius: 8px;
+    border-style: none;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    flex-shrink: 0;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    font-family: "Jost", "sans-serif";
+    font-size: 16px;
+    font-weight: 500;
+    height: 2.5rem;
+    width: 100%;
+    padding: 0 0.6rem;
+    text-align: center;
+    text-shadow: rgba(0, 0, 0, 0.25) 0 3px 8px;
+    transition: all .5s;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    margin: 4px;
+  }
+  
+  .button-36:hover {
+    box-shadow: rgba(80, 63, 205, 0.5) 0 1px 30px;
+    transition-duration: .1s;
+  }
+  
+  @media (min-width: 768px) {
+    .button-36 {
+      padding: 0 2.6rem;
+    }
+  }
+  
+  /* Icon & Link */
+.social-media-icon {
+    height: 20px;
+    width: 20px;
+    margin: 0 5px;
+    filter: invert(100%);
+}
+  
+.social-media-link {
+    color: #fafafa;
+    text-decoration: none;
+}
+
+.download-app {
+    height: 4rem;
+    width: 100%;
+    margin: 16px 0;
+}
+
+/* Colors */
+.app {
+    background-color: #2096F3;
+}
+
+.twitter {
+    background-color: #179CF0;
+}
+
+.whatsapp {
+    background-color: #23D366;
+}
+
+.discord {
+    background-color: #5865F1;
+}
+
+.instagram {
+    background-image: linear-gradient(92.88deg, #6547C3 9.16%, #FDD572 43.89%, #C72CA0 64.72%);
+}
+
+.github {
+    background-color: #000000;
+}
+
+/* Shareholder Colors */
+
+.ethereum {
+    background-color: #627EEA;
+}
+
+.bitcoin {
+    background-color: #F7931A;
+}
+  
