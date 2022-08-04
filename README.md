@@ -1,4 +1,5 @@
 # Don Elon AI
+ <img width="100" height="100" src="https://raw.githubusercontent.com/BenNorsk/DonElonAI/main/images/appicon_transparent.svg">
 ![Logo](https://raw.githubusercontent.com/BenNorsk/DonElonAI/main/images/appicon_transparent.svg | width=100px)
 The Don Elon AI is based on an analysis of over 15'000 tweets, and is able to assess to which character a tweet or a twitter profile has the most resemblance to. All characters are purely fictional, and are not connected to any real personas. The Don Elon AI includes Don, Elon, AOC, Kylie, Dr. Jordan, and Mia as unlockable characters.
 
