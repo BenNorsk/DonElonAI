@@ -16,8 +16,8 @@ available soon.
 Follow us on our social media profiles for more updates:
 <ul>
  <li><a href="https://donelon.app/" class="button big">Visit Website</a></li>
- <li><a href="https://donelon.app/" class="button big">Twitter</a></li>
- <li><a href="https://donelon.app/" class="button big">Discord</a></li>
+ <li><a href="https://twitter.com/DonElonAI" class="button big">Twitter</a></li>
+ <li><a href="https://discord.gg/Yq8yx2Eu" class="button big">Discord</a></li>
  <li><a href="https://www.linkedin.com/company/don-elon-ai/about/" class="button big">LinkedIn</a></li>
- <li><a href="https://www.linkedin.com/company/don-elon-ai/about/" class="button big">WhatsApp</a></li>
+ <li><a href="https://chat.whatsapp.com/BIolpJfvhhD086RNF6HZAl" class="button big">WhatsApp</a></li>
 </ul>
