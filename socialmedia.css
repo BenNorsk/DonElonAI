@@ -93,4 +93,13 @@
 .bitcoin {
     background-color: #F7931A;
 }
+
+.available-soon {
+    background-color: #b0b0b0;
+}
+
+.available-soon:hover {
+    box-shadow: none !important;
+    cursor: not-allowed;
+}
   
