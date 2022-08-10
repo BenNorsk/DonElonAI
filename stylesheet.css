@@ -7,7 +7,7 @@ body {
 	background: linear-gradient(-45deg, #f1840e, #00c7ff);
 	background-size: 400% 400%;
 	animation: gradient 15s ease infinite;
-	height: 100vh;
+	height: 100%;
     padding: 0;
     margin: 0;
     font-family: "Jost", "sans-serif";
@@ -59,4 +59,8 @@ body {
 .subtitle {
     margin-bottom: 0;
     text-align: center;
+}
+
+.styled-link {
+    color: #fafafa;
 }
