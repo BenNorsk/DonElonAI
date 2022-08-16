@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DonElonAI.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>2</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>DB57A85F878DB001A8D9DDE1FB9818D4711F0CD9</string>
+				<key>dateExpires</key>
+				<string>09.08.23</string>
+				<key>type</key>
+				<string>Cloud Managed Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>DB57A85F878DB001A8D9DDE1FB9818D4711F0CD9</string>
+						<key>dateExpires</key>
+						<string>09.08.23</string>
+						<key>type</key>
+						<string>Cloud Managed Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>FBLPromises.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>A2M8CCFA7Z</string>
+						<key>name</key>
+						<string>Benjamin Lukas Brueckner</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>2.1.1</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>DB57A85F878DB001A8D9DDE1FB9818D4711F0CD9</string>
+						<key>dateExpires</key>
+						<string>09.08.23</string>
+						<key>type</key>
+						<string>Cloud Managed Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>GoogleUtilities.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>A2M8CCFA7Z</string>
+						<key>name</key>
+						<string>Benjamin Lukas Brueckner</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>7.7.0</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>DB57A85F878DB001A8D9DDE1FB9818D4711F0CD9</string>
+						<key>dateExpires</key>
+						<string>09.08.23</string>
+						<key>type</key>
+						<string>Cloud Managed Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>nanopb.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>A2M8CCFA7Z</string>
+						<key>name</key>
+						<string>Benjamin Lukas Brueckner</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>2.30909.0</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>A2M8CCFA7Z.app.donelon</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>A2M8CCFA7Z</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>DonElonAI.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>1685da5f-a5ea-41c5-8738-485bf279774e</string>
+				<key>dateExpires</key>
+				<string>09.08.23</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: app.donelon</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>A2M8CCFA7Z</string>
+				<key>name</key>
+				<string>Benjamin Lukas Brueckner</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

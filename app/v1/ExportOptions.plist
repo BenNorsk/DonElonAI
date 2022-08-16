@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compileBitcode</key>
+	<true/>
+	<key>destination</key>
+	<string>export</string>
+	<key>manifest</key>
+	<dict>
+		<key>appURL</key>
+		<string>https://donelon.app/app/v1.ipa</string>
+		<key>displayImageURL</key>
+		<string>https://donelon.app/images/app/display.png</string>
+		<key>fullSizeImageURL</key>
+		<string>https://donelon.app/images/app/full_size.png</string>
+	</dict>
+	<key>method</key>
+	<string>ad-hoc</string>
+	<key>signingStyle</key>
+	<string>automatic</string>
+	<key>stripSwiftSymbols</key>
+	<true/>
+	<key>teamID</key>
+	<string>A2M8CCFA7Z</string>
+	<key>thinning</key>
+	<string>&lt;none&gt;</string>
+</dict>
+</plist>
