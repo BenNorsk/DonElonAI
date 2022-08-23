@@ -6,7 +6,8 @@ different categories. The categories are represented by a string of fictional ce
 Don, Elon, AOC, Kylie, Dr. Jordan, and Mia. 
 
 ## Download The Don Elon AI
-The Don Elon AI will be available on the Apple App store for download soon.
+The Don Elon AI is available for download in the Apple App Store.
+<a href="https://apps.apple.com/ch/app/don-elon-ai/id1638519741?l=en" class="button big">Download the App!</a>
 
 ## Participate In The Don Elon AI
 For the price of one Bitcoin, you may add yourself as a character to the 
@@ -18,9 +19,10 @@ available soon.
 ## Website & Social Media
 Follow us on our social media profiles for more updates:
 <ul>
- <li><a href="https://donelon.app/" class="button big">Visit Website</a></li>
- <li><a href="https://twitter.com/DonElonAI" class="button big">Twitter</a></li>
- <li><a href="https://discord.gg/cMGUWeYN5W" class="button big">Discord</a></li>
- <li><a href="https://www.linkedin.com/company/don-elon-ai/about/" class="button big">LinkedIn</a></li>
- <li><a href="https://chat.whatsapp.com/BIolpJfvhhD086RNF6HZAl" class="button big">WhatsApp</a></li>
+ <li><a href="https://donelon.app/" class="button-big">Visit Website</a></li>
+ <li><a href="https://twitter.com/DonElonAI" class="button-big">Twitter</a></li>
+ <li><a href="https://www.instagram.com/donelon.app/" class="button-big">Instagram</a></li>
+ <li><a href="https://discord.gg/cMGUWeYN5W" class="button-big">Discord</a></li>
+ <li><a href="https://www.linkedin.com/company/don-elon-ai/about/" class="button-big">LinkedIn</a></li>
+ <li><a href="https://chat.whatsapp.com/BIolpJfvhhD086RNF6HZAl" class="button-big">WhatsApp</a></li>
 </ul>
